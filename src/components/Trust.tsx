@@ -5,7 +5,6 @@ import {
   Activity,
   Lock,
   Headphones,
-  ArrowRight,
 } from 'lucide-react'
 import { AnimatedSection } from './AnimatedSection'
 

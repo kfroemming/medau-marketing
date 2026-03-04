@@ -1,5 +1,5 @@
 import { AnimatedSection } from './AnimatedSection'
-import { Linkedin } from 'lucide-react'
+
 
 const leadership = [
   {
