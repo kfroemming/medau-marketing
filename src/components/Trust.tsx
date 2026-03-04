@@ -41,12 +41,7 @@ const badges = [
   },
 ]
 
-const stats = [
-  { value: '99.9%', label: 'Uptime SLA' },
-  { value: '<2s', label: 'Avg. Response Time' },
-  { value: '50+', label: 'Facilities Served' },
-  { value: '100K+', label: 'Safety Checks / Month' },
-]
+// stats removed — no fabricated metrics
 
 export function Trust() {
   return (
@@ -62,26 +57,14 @@ export function Trust() {
           </p>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white tracking-tight">
             Built for healthcare.{' '}
-            <span className="text-coral">Trusted</span> by facilities.
+            <span className="text-coral">Secured</span> by design.
           </h2>
           <p className="mt-4 text-lg text-white/50 max-w-2xl mx-auto">
             Security and compliance aren't afterthoughts — they're the foundation everything else is built on.
           </p>
         </AnimatedSection>
 
-        {/* Stats bar */}
-        <AnimatedSection delay={0.1}>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto my-16 py-8 px-6 rounded-2xl border border-white/[0.06] bg-white/[0.02]">
-            {stats.map((stat) => (
-              <div key={stat.label} className="text-center">
-                <div className="text-3xl sm:text-4xl font-bold text-coral">
-                  {stat.value}
-                </div>
-                <div className="mt-1 text-sm text-white/40">{stat.label}</div>
-              </div>
-            ))}
-          </div>
-        </AnimatedSection>
+        <div className="my-16" />
 
         {/* Badge grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-5xl mx-auto">
