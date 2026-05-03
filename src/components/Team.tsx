@@ -87,11 +87,10 @@ export function Team() {
             Our Team
           </p>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-navy tracking-tight">
-            Built by clinicians.{' '}
-            <span className="text-coral">Led by innovators.</span>
+            The team behind <span className="text-coral">Medau</span>
           </h2>
           <p className="mt-4 text-lg text-navy/50 max-w-2xl mx-auto">
-            Physicians, technologists, and healthcare operators working together to transform behavioral health care.
+            Physicians, technologists, and healthcare operators working together to fix behavioral health tooling.
           </p>
         </AnimatedSection>
 

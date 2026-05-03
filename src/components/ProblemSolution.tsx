@@ -4,21 +4,21 @@ import { AnimatedSection } from './AnimatedSection'
 const cards = [
   {
     icon: ClipboardCheck,
-    title: 'Reduce Documentation Burden',
+    title: 'Less charting, more care',
     description:
-      'Smart automation cuts paperwork while improving accuracy. Your staff spends time on care, not clipboards.',
+      'Charge nurses stop wrestling with paper logs. Digital check-ins auto-populate — accurate, timestamped, done.',
   },
   {
     icon: BarChart3,
-    title: 'See the Full Picture',
+    title: 'Trends you can act on',
     description:
-      'Unified analytics across mood, safety, and behavior. Spot trends before they become crises.',
+      'Mood, safety, and behavior data in one view. Spot escalation patterns before they become incidents.',
   },
   {
     icon: Users,
-    title: 'Personalized Patient Care',
+    title: 'Care that fits the patient',
     description:
-      'No two patients are alike. Our tools adapt to individual patterns and needs.',
+      'Every patient scores differently. Medau adapts to individual patterns so treatment plans stay grounded in data, not guesswork.',
   },
 ]
 
@@ -28,7 +28,7 @@ export function ProblemSolution() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <AnimatedSection className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold text-navy tracking-tight">
-            Why facilities choose Medau
+            What changes when your unit runs on Medau
           </h2>
         </AnimatedSection>
 

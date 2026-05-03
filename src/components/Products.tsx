@@ -5,11 +5,11 @@ const products = [
   {
     title: 'In-Patient Safety Monitoring',
     description:
-      'Transform routine safety checks into real-time care insights. Digital observation with smart automation, custom alerting, and seamless facility workflows.',
+      'Replace paper safety rounds with digital observation that actually keeps up with your unit. Smart automation, custom alerting, and workflows that fit how your staff already works.',
     bullets: [
       'Configurable observation levels and intervals',
       'Overdue alerts and escalation tracking',
-      'Mobile-friendly for bedside documentation',
+      'Works on phones at the bedside — no laptop required',
     ],
     image: '/screenshots/safety-check.png',
     imageAlt: 'In-Patient Safety Monitoring — digital observation and alerting',
@@ -17,7 +17,7 @@ const products = [
   {
     title: 'Patient Point System & Token Economy',
     description:
-      'Motivate patients with a rewards-based system that drives engagement and simplifies operations. Track, reward, and empower — all in one platform.',
+      'Ditch the spreadsheets. A rewards-based system that drives patient engagement and gives your team real-time visibility into participation.',
     bullets: [
       'Automated point tracking and redemption',
       'Customizable reward tiers per facility',
@@ -29,7 +29,7 @@ const products = [
   {
     title: 'Center Point Mood Map',
     description:
-      'Visualize emotional and behavioral patterns over time. Track mood, energy, and mental focus — then transform check-ins into meaningful clinical insights with automated summaries.',
+      'Visualize emotional and behavioral patterns over time. Track mood, energy, and focus — then turn check-ins into clinical insights with automated summaries.',
     bullets: [
       'Interactive mood trend visualization',
       'Automated summaries tied to diagnostic data',
@@ -46,7 +46,7 @@ export function Products() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <AnimatedSection className="text-center mb-20">
           <h2 className="text-3xl sm:text-4xl font-bold text-navy tracking-tight">
-            A complete behavioral health toolkit
+            Purpose-built tools for inpatient behavioral health
           </h2>
         </AnimatedSection>
 

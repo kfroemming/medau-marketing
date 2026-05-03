@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Menu, X, Bird } from 'lucide-react'
+import { Menu, X } from 'lucide-react'
 
 const navLinks = [
   { label: 'Products', href: '#products' },
@@ -30,9 +30,7 @@ export function Navbar() {
         <div className="flex h-18 items-center justify-between">
           {/* Logo */}
           <a href="#" className="flex items-center gap-2.5 group">
-            <div className="w-8 h-8 rounded-lg bg-coral flex items-center justify-center transition-transform group-hover:scale-105">
-              <Bird className="w-5 h-5 text-white" strokeWidth={2.5} />
-            </div>
+            <img src="/favicon.png" alt="Medau" className="w-8 h-8 object-contain transition-transform group-hover:scale-105" />
             <span className="text-xl font-bold text-navy tracking-tight">
               Medau
             </span>

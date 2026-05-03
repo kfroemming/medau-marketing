@@ -12,7 +12,7 @@ const badges = [
   {
     icon: Shield,
     label: 'HIPAA Compliant',
-    desc: 'End-to-end encryption and access controls that meet the highest healthcare standards.',
+    desc: 'AES-256 encryption at rest and in transit, role-based access controls, and full audit logging.',
   },
   {
     icon: Stethoscope,
@@ -22,7 +22,7 @@ const badges = [
   {
     icon: Plug,
     label: 'EMR Integration',
-    desc: 'Seamless connections to your existing systems — no rip-and-replace.',
+    desc: 'HL7/FHIR-ready connections to your existing EHR — no rip-and-replace.',
   },
   {
     icon: Activity,
@@ -37,7 +37,7 @@ const badges = [
   {
     icon: Headphones,
     label: '24/7 Support',
-    desc: 'Dedicated onboarding and round-the-clock support from our clinical team.',
+    desc: 'Dedicated onboarding and round-the-clock support from our team.',
   },
 ]
 

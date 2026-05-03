@@ -35,8 +35,8 @@ export function Hero() {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-4xl sm:text-5xl lg:text-[3.5rem] font-extrabold leading-[1.1] tracking-tight text-navy mb-6"
             >
-              Smarter behavioral health care,{' '}
-              <span className="text-coral">powered by data</span>
+              Behavioral health analytics that clinicians{' '}
+              <span className="text-coral">actually use</span>
             </motion.h1>
 
             <motion.p
@@ -45,9 +45,9 @@ export function Hero() {
               transition={{ duration: 0.5, delay: 0.3 }}
               className="text-lg text-navy/60 leading-relaxed mb-8"
             >
-              Turn daily check-ins into actionable clinical insights. Real-time
-              monitoring, mood analytics, and patient engagement — built for
-              facilities that refuse to settle.
+              Real-time safety monitoring, mood tracking, and patient engagement
+              tools — purpose-built for inpatient psych units that need
+              clinical insight, not more paperwork.
             </motion.p>
 
             <motion.div

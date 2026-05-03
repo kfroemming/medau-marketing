@@ -30,11 +30,11 @@ export function CTA() {
           </div>
 
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white tracking-tight leading-[1.1]">
-            Ready to transform your facility's behavioral health program?
+            See it running on your unit's data
           </h2>
 
           <p className="mt-6 text-lg sm:text-xl text-white/70 max-w-2xl mx-auto leading-relaxed">
-            See how Medau can streamline your workflows, improve patient outcomes, and give your clinical team the insights they need.
+            Book a 30-minute walkthrough and we'll load your unit's configuration live. No slides, no fluff.
           </p>
 
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -55,7 +55,7 @@ export function CTA() {
           </div>
 
           <p className="mt-12 text-white/40 text-sm">
-            No commitment required · HIPAA-compliant demo environment · Takes 2 minutes to set up
+            No commitment required · HIPAA-compliant demo environment · Live in under a week
           </p>
         </AnimatedSection>
       </div>
