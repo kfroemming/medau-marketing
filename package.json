@@ -1,5 +1,6 @@
 {
   "name": "medau-marketing",
+  "description": "Marketing website for Medau Health — behavioral health analytics platform for hospitals and clinics",
   "private": true,
   "version": "0.0.0",
   "type": "module",
