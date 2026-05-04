@@ -39,18 +39,18 @@ export function CTA() {
 
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
-              href="mailto:hello@medau.io?subject=Demo Request"
+              href="mailto:team@meadu.io?subject=Demo Request"
               className="group inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white text-coral font-bold text-lg hover:bg-white/95 transition-all shadow-[0_8px_32px_rgba(0,0,0,0.2)] hover:shadow-[0_12px_40px_rgba(0,0,0,0.25)] hover:-translate-y-0.5"
             >
               Schedule a Demo
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </a>
             <a
-              href="mailto:hello@medau.io"
+              href="mailto:team@meadu.io"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white/10 backdrop-blur-sm border border-white/20 text-white font-semibold text-lg hover:bg-white/20 transition-all"
             >
               <Mail className="w-5 h-5" />
-              hello@medau.io
+              team@meadu.io
             </a>
           </div>
 
