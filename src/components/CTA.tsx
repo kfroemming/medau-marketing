@@ -1,6 +1,7 @@
 import { ArrowRight, Calendar, Mail } from 'lucide-react'
 import { AnimatedSection } from './AnimatedSection'
 
+// Contact section with booking and email links
 export function CTA() {
   return (
     <section id="contact" className="relative py-24 lg:py-32 scroll-mt-20 overflow-hidden">
