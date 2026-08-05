@@ -11,7 +11,7 @@ const leadership = [
   {
     name: 'Jon Froemming',
     role: 'Managing Director / Co-Founder',
-    photo: '/team/jon-froemming.jpg',
+    photo: '/team/jon-froemming-2026.jpg',
     bio: 'Experienced leader in sales, marketing, and strategic operations across diverse industries. Oversees company direction, team alignment, and delivery of innovative solutions integrating clinical insights with advanced technology. Former Forensic Specialist bringing real-world applications to the Medau platform.',
   },
 ]
