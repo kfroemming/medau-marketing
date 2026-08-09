@@ -6,7 +6,7 @@ const leadership = [
     name: 'Dr. Alex Au, MD',
     role: 'Founder / CEO',
     photo: '/team/alex-au.jpg',
-    bio: 'Board-certified psychiatrist, University of Utah School of Medicine graduate, and former Chief Resident at University of Nevada Reno. A suicidologist and mental health innovator who developed a global suicide-prevention app and founded the Global Mental Health Initiative.',
+    bio: 'Board-certified psychiatrist, innovator, and advocate for mental health. He has a background in clinical informatics from the University of Utah. He is dedicated to innovative technology aimed to address issues in behavioral health.',
   },
   {
     name: 'Jon Froemming',

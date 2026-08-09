@@ -6,7 +6,7 @@ const cards = [
     icon: ClipboardCheck,
     title: 'Less charting, more care',
     description:
-      'Charge nurses stop wrestling with paper logs. Digital check-ins auto-populate — accurate, timestamped, done.',
+      'Administrators stop wrestling with paper logs. Digital check-ins auto-populate — accurate, timestamped, done.',
   },
   {
     icon: BarChart3,

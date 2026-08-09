@@ -35,8 +35,8 @@ const products = [
       'Automated summaries tied to diagnostic data',
       'Real-time alerting for significant changes',
     ],
-    image: '/screenshots/assessments.png',
-    imageAlt: 'Center Point Mood Map — mood trend visualization and clinical summaries',
+    image: '/screenshots/due-assessments.png',
+    imageAlt: 'Due Assessments dashboard showing scheduled mood assessments by patient',
   },
 ]
 

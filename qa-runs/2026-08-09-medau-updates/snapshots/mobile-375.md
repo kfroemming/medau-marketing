@@ -1,0 +1,130 @@
+- navigation:
+  - link "Medau Medau":
+    - /url: "#"
+    - img "Medau"
+    - generic: Medau
+  - button "Toggle menu":
+- generic: Built by Physicians • HIPAA Compliant
+- heading "Behavioral health analytics that clinicians actually use" [level=1]
+- paragraph: Real-time safety monitoring, mood tracking, and patient engagement tools — purpose-built for inpatient psych units that need clinical insight, not more paperwork.
+- link "Request a Demo":
+  - /url: "#contact"
+- link "See Products":
+  - /url: "#products"
+- generic: app.medau.io
+- img "Medau dashboard showing real-time behavioral health analytics"
+- heading "What changes when your unit runs on Medau" [level=2]
+- heading "Less charting, more care" [level=3]
+- paragraph: Administrators stop wrestling with paper logs. Digital check-ins auto-populate — accurate, timestamped, done.
+- heading "Trends you can act on" [level=3]
+- paragraph: Mood, safety, and behavior data in one view. Spot escalation patterns before they become incidents.
+- heading "Care that fits the patient" [level=3]
+- paragraph: Every patient scores differently. Medau adapts to individual patterns so treatment plans stay grounded in data, not guesswork.
+- heading "Purpose-built tools for inpatient behavioral health" [level=2]
+- img "In-Patient Safety Monitoring — digital observation and alerting"
+- heading "In-Patient Safety Monitoring" [level=3]
+- paragraph: Replace paper safety rounds with digital observation that actually keeps up with your unit. Smart automation, custom alerting, and workflows that fit how your staff already works.
+- list:
+  - generic: Configurable observation levels and intervals
+  - generic: Overdue alerts and escalation tracking
+  - generic: Works on phones at the bedside — no laptop required
+- img "Patient Point System — rewards-based engagement tracking"
+- heading "Patient Point System & Token Economy" [level=3]
+- paragraph: Ditch the spreadsheets. A rewards-based system that drives patient engagement and gives your team real-time visibility into participation.
+- list:
+  - generic: Automated point tracking and redemption
+  - generic: Customizable reward tiers per facility
+  - generic: Real-time engagement analytics
+- img "Due Assessments dashboard showing scheduled mood assessments by patient"
+- heading "Center Point Mood Map" [level=3]
+- paragraph: Visualize emotional and behavioral patterns over time. Track mood, energy, and focus — then turn check-ins into clinical insights with automated summaries.
+- list:
+  - generic: Interactive mood trend visualization
+  - generic: Automated summaries tied to diagnostic data
+  - generic: Real-time alerting for significant changes
+- paragraph: Our Team
+- heading "The team behind Medau" [level=2]
+- paragraph: Physicians, technologists, and healthcare operators working together to fix behavioral health tooling.
+- img "Dr. Alex Au, MD"
+- heading "Dr. Alex Au, MD" [level=3]
+- paragraph: Founder / CEO
+- paragraph: Board-certified psychiatrist, innovator, and advocate for mental health. He has a background in clinical informatics from the University of Utah. He is dedicated to innovative technology aimed to address issues in behavioral health.
+- img "Jon Froemming"
+- heading "Jon Froemming" [level=3]
+- paragraph: Managing Director / Co-Founder
+- paragraph: Experienced leader in sales, marketing, and strategic operations across diverse industries. Oversees company direction, team alignment, and delivery of innovative solutions integrating clinical insights with advanced technology. Former Forensic Specialist bringing real-world applications to the Medau platform.
+- img "Dr. Noel C. Gardner, MD"
+- heading "Dr. Noel C. Gardner, MD" [level=3]
+- paragraph: Chief Medical Advisor
+- paragraph: Board-certified psychiatrist with 40+ years of clinical, forensic, and academic experience. Former Chief of Consultation-Liaison Psychiatry at University of Utah for 15 years. Recipient of the 2022 COPIC Utah Humanitarian Award.
+- img "Mark Munger"
+- heading "Mark Munger" [level=3]
+- paragraph: Chief Operations Officer
+- paragraph: Multiple-time founder, former public company director, and technology executive. Decades of experience guiding companies through product design, secure development, regulatory compliance, and commercialization in highly regulated industries.
+- img "Nate Creer"
+- heading "Nate Creer" [level=3]
+- paragraph: Director of Operations
+- paragraph: Healthcare professional focused on strategic integration of technology into clinical environments. Holds a Doctorate in Health Sciences Leadership and an MBA, with deep expertise in new technology adoption among clinical teams.
+- img "Saba Leistner, PA-C, MPAS"
+- heading "Saba Leistner, PA-C, MPAS" [level=3]
+- paragraph: Technical Operator
+- paragraph: Board-certified Physician Associate with 15 years spanning emergency medicine, oncology, and family medicine. Former Medical Director at One Medical (pre-Amazon acquisition). Translates real-world clinical workflows into scalable digital health solutions.
+- paragraph:
+  - text: Healthcare-Grade Security
+- heading "Built for healthcare. Secured by design." [level=2]
+- paragraph: Security and compliance aren't afterthoughts — they're the foundation everything else is built on.
+- heading "HIPAA Compliant" [level=3]
+- paragraph: AES-256 encryption at rest and in transit, role-based access controls, and full audit logging.
+- heading "Built by Physicians" [level=3]
+- paragraph: Designed alongside clinicians who understand real facility workflows.
+- heading "EMR Integration" [level=3]
+- paragraph: HL7/FHIR-ready connections to your existing EHR — no rip-and-replace.
+- heading "Real-time Analytics" [level=3]
+- paragraph: Live dashboards and instant alerting so nothing slips through the cracks.
+- heading "SOC 2 Compliant" [level=3]
+- paragraph: Enterprise-grade security audited and verified by independent assessors.
+- heading "24/7 Support" [level=3]
+- paragraph: Dedicated onboarding and round-the-clock support from our team.
+- text: Free 30-minute consultation
+- heading "See how Medau fits your unit" [level=2]
+- paragraph: Book a 30-minute walkthrough tailored to your facility’s workflows, priorities, and care model.
+- link "Schedule a Demo":
+  - /url: mailto:team@meadu.io?subject=Demo Request
+  - text: Schedule a Demo
+- link "team@meadu.io":
+  - /url: mailto:team@meadu.io
+  - text: team@meadu.io
+- paragraph: No commitment required · HIPAA-compliant demo environment · Live in under a week
+- contentinfo:
+  - link "Medau Medau":
+    - /url: "#"
+    - img "Medau"
+    - generic: Medau
+  - paragraph: Analytics for inpatient behavioral health
+  - link "Website":
+    - /url: "#"
+  - link "LinkedIn":
+    - /url: "#"
+  - link "GitHub":
+    - /url: "#"
+  - heading "Product" [level=4]
+  - list:
+    - link "Center Point Mood Map":
+      - /url: "#products"
+    - link "Safety Monitoring":
+      - /url: "#products"
+    - link "Point System":
+      - /url: "#products"
+  - heading "Company" [level=4]
+  - list:
+    - link "About":
+      - /url: "#trust"
+    - link "Contact":
+      - /url: "#contact"
+  - heading "Legal" [level=4]
+  - list:
+    - link "Privacy Policy":
+      - /url: "#"
+    - link "Terms of Service":
+      - /url: "#"
+  - paragraph: © 2026 Medau Health. All rights reserved.

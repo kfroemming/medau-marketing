@@ -31,11 +31,11 @@ export function CTA() {
           </div>
 
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white tracking-tight leading-[1.1]">
-            See it running on your unit's data
+            See how Medau fits your unit
           </h2>
 
           <p className="mt-6 text-lg sm:text-xl text-white/70 max-w-2xl mx-auto leading-relaxed">
-            Book a 30-minute walkthrough and we'll load your unit's configuration live. No slides, no fluff.
+            Book a 30-minute walkthrough tailored to your facility’s workflows, priorities, and care model.
           </p>
 
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
