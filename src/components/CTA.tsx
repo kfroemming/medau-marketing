@@ -55,12 +55,12 @@ export function CTA() {
             </a>
           </div>
 
-          <div className="mt-8 flex items-start justify-center gap-2 text-white/70">
-            <MapPin className="w-4 h-4 shrink-0 mt-0.5 sm:mt-1" />
-            <p className="text-sm sm:text-base leading-5 sm:leading-6">
+          <p className="mt-8 text-white/70 text-sm sm:text-base leading-5 sm:leading-6 flex items-start justify-center gap-1.5">
+            <MapPin className="w-4 h-4 shrink-0 mt-px" aria-hidden="true" />
+            <span className="text-left">
               304 S. Jones Blvd, Suite 3343, Las Vegas, NV 89107
-            </p>
-          </div>
+            </span>
+          </p>
 
           <p className="mt-12 text-white/40 text-sm">
             No commitment required · HIPAA-compliant demo environment · Live in under a week
