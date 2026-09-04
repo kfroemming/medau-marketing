@@ -1,4 +1,4 @@
-import { ArrowRight, Calendar, Mail } from 'lucide-react'
+import { ArrowRight, Calendar, Mail, MapPin } from 'lucide-react'
 import { AnimatedSection } from './AnimatedSection'
 
 // Contact section with booking and email links
@@ -40,19 +40,26 @@ export function CTA() {
 
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
-              href="mailto:team@meadu.io?subject=Demo Request"
+              href="mailto:team@medau.io?subject=Demo Request"
               className="group inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white text-coral font-bold text-lg hover:bg-white/95 transition-all shadow-[0_8px_32px_rgba(0,0,0,0.2)] hover:shadow-[0_12px_40px_rgba(0,0,0,0.25)] hover:-translate-y-0.5"
             >
               Schedule a Demo
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </a>
             <a
-              href="mailto:team@meadu.io"
+              href="mailto:team@medau.io"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white/10 backdrop-blur-sm border border-white/20 text-white font-semibold text-lg hover:bg-white/20 transition-all"
             >
               <Mail className="w-5 h-5" />
-              team@meadu.io
+              team@medau.io
             </a>
+          </div>
+
+          <div className="mt-8 flex items-center justify-center gap-2 text-white/70">
+            <MapPin className="w-4 h-4 shrink-0" />
+            <p className="text-sm sm:text-base">
+              304 S. Jones Blvd, Suite 3343, Las Vegas, NV 89107
+            </p>
           </div>
 
           <p className="mt-12 text-white/40 text-sm">
