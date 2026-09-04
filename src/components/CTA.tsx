@@ -55,9 +55,9 @@ export function CTA() {
             </a>
           </div>
 
-          <div className="mt-8 flex items-center justify-center gap-2 text-white/70">
-            <MapPin className="w-4 h-4 shrink-0" />
-            <p className="text-sm sm:text-base">
+          <div className="mt-8 flex items-start justify-center gap-2 text-white/70">
+            <MapPin className="w-4 h-4 shrink-0 mt-0.5 sm:mt-1" />
+            <p className="text-sm sm:text-base leading-5 sm:leading-6">
               304 S. Jones Blvd, Suite 3343, Las Vegas, NV 89107
             </p>
           </div>
